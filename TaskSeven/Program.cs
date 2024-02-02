@@ -16,7 +16,6 @@ namespace TaskSeven
         }
         static Student[] students = new Student[10];
         static int studentCount = 0;
-
         static void Main()
         {
             Console.WriteLine("Задание №7. Журнал");
